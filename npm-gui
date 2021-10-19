@@ -1,1 +1,2 @@
 npm-gui localhost:9000
+npm install -g npm-gui
